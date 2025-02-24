@@ -176,6 +176,6 @@ df = df[df['business_id'].isin(selected_business_ids)]
 
 print(df.head(3))
 result = boxplotter.boxplot(df)
-plt.show()
+# plt.show()
 
 
