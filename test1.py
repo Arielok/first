@@ -1,6 +1,6 @@
 print("hello hub")
 
-# ------------------------------------【盒须图初版】--------------------------------
+# ------------------------------------【盒须图初版】---------------------------------
 from urllib.parse import quote
 from sqlalchemy import create_engine
 import pandas as pd
